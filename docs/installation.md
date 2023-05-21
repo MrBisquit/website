@@ -21,7 +21,7 @@ While we don't have a strict set of minimum system requirements, we recommend at
 
 You will also need a spare USB flash drive with at least 4 GB of storage for installation.
 
-**We do not recommend virtual machines as they don't perform as well as a full install.** If you are attempting to install in a virtual machine, enable EFI if possible but understand you may encounter other issues.
+**We do not recommend virtual machines as they don't perform as well as a full install.** If you are attempting to install in a virtual machine, enable EFI if possible but understand you may encounter other issues. (Or you could see <a href="/docs/installation/virtual-machine/#HyperV">Hyper-V VM Installation guide</a>
 
 <div class="row alert warning" markdown="1">
 <div class="column alert">
